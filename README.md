@@ -1,0 +1,1 @@
+Just a simple Discord bot that will pull the latest status from a provided Mastodon feed. Just messing around with Rust and API interfacing, nothing major.
